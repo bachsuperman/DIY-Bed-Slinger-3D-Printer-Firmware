@@ -1,0 +1,1 @@
+{"__version__":1,"totalSize":3065313,"count":8,"data":{"auto_build.py":[0,55570],"avrdude.conf":[0,500242],"avrdude_5.10_linux":[0,1159576],"avrdude_5.10_macOS":[0,346784],"avrdude_linux.conf":[0,500257],"avrdude_macOS.conf":[0,496611],"create_custom_upload_command_CDC.py":[0,4903],"create_custom_upload_command_DFU.py":[0,1370]}}
